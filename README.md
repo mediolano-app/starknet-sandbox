@@ -1,8 +1,6 @@
 > [!IMPORTANT]
 > Mediolano Sandbox runs on Starknet's Sepolia devnet. Use this repository for testing purposes only. 
 
-![Mediolano.app](https://mediolano.app/wp-content/uploads/2025/03/Mediolano-Dapp-20250310alpha.png)
-
 ## Programmable IP for the Integrity Web
 
 Mediolano provides seamless tokenization services for intellectual property, leveraging Starknet’s unparalleled high-speed, low-cost, and smart contract intelligence for digital assets to empower creators, collectors, and organizations to protect and monetize their IP assets effectively.
@@ -40,13 +38,23 @@ Mediolano aims to serve as the intellectual property provider for the integrity 
 
 - [x] MIP Dapp @ Starknet Sepolia **25.06**
 
-- [ ] MIP Protocol v2 @ Starknet Sepolia **25.06**
+- [X] MIP Protocol @ Starknet Mainnet **25.07**
 
-- [ ] MIP Protocol v2 @ Starknet Mainnet **25.07**
+- [ ] MIP Collections Protocol @ Starknet Sepolia **25.07**
 
-- [ ] MIP Dapp @ Starknet Mainnet **25.07**
+- [ ] MIP Dapp @ Starknet Mainnet **25.08**
 
-- [ ] Mediolano Dapp @ Starknet Mainnet **25.07**
+- [ ] Mediolano Dapp @ Starknet Mainnet **25.08**
+
+- [ ] MIP Collections Protocol @ Starknet Mainnet **25.08**
+
+- [ ] Medialane Protocol @ Starknet Sepolia **25.08**
+
+- [ ] Medialane Dapp @ Starknet Sepolia **25.09**
+
+- [ ] Medialane Protocol @ Starknet Mainnet **25.11**
+
+- [ ] Medialane Dapp @ Starknet Mainnet **25.11**
 
 
 ## Contributing
